@@ -1,0 +1,33 @@
+@import "../../styles/variables.scss";
+
+.dataTable {
+  .dataGrid {
+    background-color: #f1f1f1;
+    padding: 20px;
+
+    .MuiDataGrid-toolbarContainer {
+      flex-direction: row-reverse;
+    }
+
+    img {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .action {
+      display: flex;
+      gap: 15px;
+
+      .action-btn {
+        margin-top: 8px;
+        cursor: pointer;
+        color: $highlight-03;
+      }
+      .icon-red {
+        color: $alert-color;
+      }
+    }
+  }
+}

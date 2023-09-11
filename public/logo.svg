@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#95AABC;}
+	.st1{fill:#CFDEE2;}
+	.st2{fill:#003745;}
+	.st3{fill:#77C043;}
+	.st4{fill:#FF0068;}
+	.st5{fill:none;}
+	.st6{fill:#11EDA9;}
+</style>
+<rect x="7.2" y="25.2" class="st0" width="17.4" height="4.9"/>
+<g id="App_design" transform="translate(-254.07 -70.142)">
+	<g id="Group_6">
+		<g id="Group_5">
+			<g id="Group_4">
+				<g id="Group_3">
+					<path id="Path_4" class="st1" d="M280.7,73.3v25.6c0,1.8-1.4,3.2-3.2,3.2h-14.8c-1.8,0-3.2-1.4-3.2-3.2V73.3
+						c0-1.8,1.4-3.2,3.2-3.2h14.8C279.2,70.1,280.7,71.6,280.7,73.3z M278.3,98.9v-3.2h-16.4v3.2c0,0.4,0.4,0.8,0.8,0.8h14.8
+						C277.9,99.7,278.3,99.4,278.3,98.9z M278.3,93.3v-20c0-0.4-0.4-0.8-0.8-0.8h-14.8c-0.4,0-0.8,0.4-0.8,0.8v20H278.3z"/>
+					<path id="Path_6" class="st2" d="M276.5,75.7v13.8c0,0.7-0.5,1.2-1.2,1.2h-10.4c-0.7,0-1.2-0.5-1.2-1.2V75.7
+						c0-0.7,0.5-1.2,1.2-1.2h10.4C275.9,74.5,276.5,75.1,276.5,75.7z M274.1,83.1v-6.2h-3.2v6.2H274.1z"/>
+					<rect id="Rectangle_4" x="270.9" y="76.9" class="st3" width="3.2" height="6.2"/>
+					<path id="Path_7" class="st4" d="M265.1,96.7c0.6,0,1.1,0.5,1.1,1.1c0,0.6-0.5,1.1-1.1,1.1c-0.6,0-1.1-0.5-1.1-1.1c0,0,0,0,0,0
+						C263.9,97.2,264.4,96.7,265.1,96.7C265.1,96.7,265.1,96.7,265.1,96.7z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st5" d="M10.8,20.6h10.4c0.7,0,1.2-0.5,1.2-1.2v-0.7L9.6,5.9v13.5C9.6,20.1,10.1,20.6,10.8,20.6z"/>
+	<path class="st6" d="M22.4,19.4c0,0.7-0.5,1.2-1.2,1.2H10.8c-0.7,0-1.2-0.5-1.2-1.2V5.9L7.8,4.1v19.1h16.4v-2.7l-1.8-1.8V19.4z"/>
+	<path class="st6" d="M23.4,2.4H8.6c-0.4,0-0.8,0.4-0.8,0.8v0.9l1.8,1.8V5.6c0-0.7,0.5-1.2,1.2-1.2h10.4c0.7,0,1.2,0.5,1.2,1.2v13.1
+		l1.8,1.8V3.2C24.2,2.8,23.8,2.4,23.4,2.4z"/>
+</g>
+</svg>

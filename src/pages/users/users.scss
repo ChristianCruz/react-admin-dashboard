@@ -1,0 +1,22 @@
+@import "../../styles/variables.scss";
+
+.users {
+  h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .btn {
+    margin-bottom: 15px;
+    outline-color: $highlight-01;
+    color: $highlight-01;
+  }
+
+  .info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+}
